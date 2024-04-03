@@ -1,0 +1,8 @@
+Dynamic routic is represented wit a square bracket [].
+File base routing -  In the app directory, nested folders are normally mapped to URL paths ie (marketing)
+Route groups
+
+
+What clerk is and how to inegreate it.
+How to protect routes 
+setting default sign in/up routes
